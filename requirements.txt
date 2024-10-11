@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+skforecast
+statsmodels
+scipy
+feature-engine 
+numpy
+xgboost
+catboost
